@@ -3,12 +3,12 @@ adjust the icons and size to fit my own mirror
 
 ![Image of loading gif](https://raw.githubusercontent.com/Yuhan-1in/MMM-network-signal/master/loading.gif)
 
-## Dependencies
-
--   [MagicMirror<sup>2</sup>](https://github.com/MichMich/MagicMirror)
--   [NPM Ping](https://www.npmjs.com/package/ping)
-
 ## Installation
+
+cd ~/MagicMirror/modules
+git clone https://github.com/Yuhan-1in/MMM-network-signal.git
+cd MMM-network-signal
+npm install
 
 1. Clone this repo into `~/MagicMirror/modules` directory.
 2. Install dependencies `npm i`
