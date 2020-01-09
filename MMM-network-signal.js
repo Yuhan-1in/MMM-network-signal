@@ -44,7 +44,7 @@ Module.register("MMM-network-signal", {
         const content = document.createElement("div");
         content.style = "display: flex;flex-direction: row;justify-content: space-between; align-items: center";
         const wifiSign = document.createElement("img");
-        wifiSign.style = "transform:scale(0.45)";
+        wifiSign.style = "transform:scale(1)";
         if (this.config.showMessage)
         {
             var connStatus = document.createElement("p");
