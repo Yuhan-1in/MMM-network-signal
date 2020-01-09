@@ -1,7 +1,7 @@
 # MMM-network-signal
 adjust the icons and size to fit my own mirror
 
-(https://github.com/Yuhan-1in/MMM-network-signal/blob/master/icons/loading.gif)
+![Image of loading gif](https://raw.githubusercontent.com/Yuhan-1in/MMM-network-signal/master/loading.gif)
 
 ## Dependencies
 
