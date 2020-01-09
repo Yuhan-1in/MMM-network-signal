@@ -1,6 +1,8 @@
 # MMM-network-signal
 adjust the icons and size to fit my own mirror
 
+(https://github.com/Yuhan-1in/MMM-network-signal/blob/master/icons/loading.gif)
+
 ## Dependencies
 
 -   [MagicMirror<sup>2</sup>](https://github.com/MichMich/MagicMirror)
